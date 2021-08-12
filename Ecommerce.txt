@@ -1,0 +1,45 @@
+E-Commerce  Laravel 8
+
+Technologies
+	Laravel 8
+	Vuejs 3
+	Tailwindcss
+	MySQL
+	GraphQL for API
+	aws FOR iMAGES
+	Heroku for Deployment
+	Valet
+
+
+Payment Gateways
+	Stripe
+	Paypal
+	RazorPay (Optional)
+
+Buyer Features
+	Sign in And Sign up with Email
+	Sign with Apple and Microsoft
+	Profile Overview
+	My Orders
+	My Cart
+	My Wishlist
+	Shipping Address
+	Feedback
+	Settings
+	Wallet
+
+
+Seller Features
+	Sign in And Sign up with Email
+	Sign with Apple and Microsoft
+	Profile Overview
+	My Products
+	My Orders
+    Manage Payments
+	Reports
+	Purchase
+	Feedback
+	Settings
+
+
+Admin Panel

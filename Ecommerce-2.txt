@@ -1,0 +1,5 @@
+E-Commerce  Laravel 8
+
+git init -b main
+git add .
+git commit -m "Initial Commit and Project Installation"
