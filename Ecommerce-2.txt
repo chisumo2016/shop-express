@@ -1,5 +1,31 @@
 E-Commerce  Laravel 8
+  Day One -Laravel Installation And Setup repo in Github
+    git init -b main
+    git add .
+    git commit -m "Initial Commit and Project Installation"
+    git remote -v
+    git status
 
-git init -b main
-git add .
-git commit -m "Initial Commit and Project Installation"
+  Day Two -Create the Navbar UI and contribute to Github using Git
+-create develop branch
+    git checkout -b develop
+-Create feature branch called navbar
+    git checkout -b  feature/navbar
+    use https://jetstream.laravel.com/2.x/introduction.html
+         -inertia
+
+TAILWINDCSS
+  https://tailwindcss.com/resources
+
+  - Build UI in welcome page
+  -Create a Components folder inside Js
+  -Inside the Components create a file called Navbar.vue
+  -Take the header and put inside the vue file
+
+ git status
+ git  add .
+  git commit -m "Build the Navbar UI Component"
+  git push
+
+
+git clone https://github.com/chisumo2016/repo.git
