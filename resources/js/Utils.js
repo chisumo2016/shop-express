@@ -1,2 +1,2 @@
-let test = null;
-let again = 100;
+let test = 100;
+let again = 200;
