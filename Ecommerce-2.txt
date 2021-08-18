@@ -26,6 +26,4 @@ TAILWINDCSS
  git  add .
   git commit -m "Build the Navbar UI Component"
   git push
-
-
 git clone https://github.com/chisumo2016/repo.git
