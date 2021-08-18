@@ -26,36 +26,4 @@ TAILWINDCSS
  git  add .
   git commit -m "Build the Navbar UI Component"
   git push
-
 git clone https://github.com/chisumo2016/repo.git
-
-17/08/2021
-Build Header UI and Resolve Navbar Issues
-git checkout develop
-git pull origin develop
-git checkout -b feature/Header
--Create Header Component
--Create Header Vue file
--Import
-
-git checkout develop
-
- Refactor Header Components
--add the icon in single components
--add the top bar in header components
- git checkout develop
- git pull origin develop
- npm run watch
- git checkout -b fix/refactor-header-ui
- -create the Images folder eg LogoImage
- -Create the Icons folder CartIcon , UserIcon , WishlistIcon
-    inside each create a classess
-git add .
- git commit -m "Fixed the refactoring the previous changes in the header and top navbar "
- git push origin fix/refactor-header-ui
- Go to github  click compare & pull request button
-
-
-
-
-
