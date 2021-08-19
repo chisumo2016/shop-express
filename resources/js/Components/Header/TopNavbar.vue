@@ -9,6 +9,9 @@
                     <a href="/">Help</a>
                 </li>
                 <li>
+                    <a href="/">Wadday</a>
+                </li>
+                <li>
                     <a href="/" class="flex text-center">
                         <WishlistIcon class="h-5 w-5 mr-1"/>
                         Wishlist
