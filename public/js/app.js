@@ -21253,26 +21253,32 @@ var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 /* HOISTED */
 );
 
-var _hoisted_6 = {
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Wadday")], -1
+/* HOISTED */
+);
+
+var _hoisted_7 = {
   href: "/",
   "class": "flex text-center"
 };
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Wishlist ");
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Wishlist ");
 
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Account");
+var _hoisted_9 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Account");
 
-var _hoisted_9 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<span class=\"text-base text-gray-500\">Welcome to Aliexpress ! </span><div class=\"flex space-x-2 py-2 border-b-1 border-gray-200\"><a href=\"/register\" class=\"bg-red-500 text-white    py-2 px-8  text-center font-bold rounded-sm\">Join</a><a href=\"/login\" class=\"bg-red-100 text-red-500  py-2 px-8  text-center font-bold rounded-sm\">Sign in</a></div><ul class=\"my-3 text-sm text-gray-500 space-y-3\"><li><a href=\"/\" class=\"hover:text-red-500\">My Orders</a></li><li><a href=\"/\" class=\"hover:text-red-500\">My Wishlist</a></li><li><a href=\"/\" class=\"hover:text-red-500\">My Coupon</a></li><li><a href=\"/\" class=\"hover:text-red-500\">Message center</a></li></ul>", 3);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<span class=\"text-base text-gray-500\">Welcome to Aliexpress ! </span><div class=\"flex space-x-2 py-2 border-b-1 border-gray-200\"><a href=\"/register\" class=\"bg-red-500 text-white    py-2 px-8  text-center font-bold rounded-sm\">Join</a><a href=\"/login\" class=\"bg-red-100 text-red-500  py-2 px-8  text-center font-bold rounded-sm\">Sign in</a></div><ul class=\"my-3 text-sm text-gray-500 space-y-3\"><li><a href=\"/\" class=\"hover:text-red-500\">My Orders</a></li><li><a href=\"/\" class=\"hover:text-red-500\">My Wishlist</a></li><li><a href=\"/\" class=\"hover:text-red-500\">My Coupon</a></li><li><a href=\"/\" class=\"hover:text-red-500\">Message center</a></li></ul>", 3);
 
-var _hoisted_12 = [_hoisted_9];
+var _hoisted_13 = [_hoisted_10];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_WishlistIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("WishlistIcon");
 
   var _component_UserIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("UserIcon");
 
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("header", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("nav", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", _hoisted_3, [_hoisted_4, _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_WishlistIcon, {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("header", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("nav", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", _hoisted_3, [_hoisted_4, _hoisted_5, _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_WishlistIcon, {
     "class": "h-5 w-5 mr-1"
-  }), _hoisted_7])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", {
+  }), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", {
     "class": "relative cursor-pointer",
     onMouseover: _cache[1] || (_cache[1] = function ($event) {
       return $data.isAccountLinkHovered = true;
@@ -21281,7 +21287,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([$data.isAccountLinkHovered ? 'text-red-400' : '', "flex items-center"])
   }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_UserIcon, {
     "class": "h-65 w-5  mr-1"
-  }), _hoisted_8], 2
+  }), _hoisted_9], 2
   /* CLASS */
   ), $data.isAccountLinkHovered ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", {
     key: 0,
@@ -21289,7 +21295,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     onMouseleave: _cache[0] || (_cache[0] = function ($event) {
       return $data.isAccountLinkHovered = false;
     })
-  }, _hoisted_12, 32
+  }, _hoisted_13, 32
   /* HYDRATE_EVENTS */
   )) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)], 32
   /* HYDRATE_EVENTS */
