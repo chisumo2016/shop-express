@@ -9,7 +9,7 @@
                     <a href="/">Help</a>
                 </li>
                 <li>
-                    <a href="/">Wadday</a>
+                    <a href="/">Contact</a>
                 </li>
                 <li>
                     <a href="/" class="flex text-center">
