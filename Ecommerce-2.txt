@@ -34,3 +34,11 @@ git commit -m "nnnnnnnnn"
 git push origin fix/refactor-header-ui
 go to github and click pull & request
 
+Create Categories Menu
+ -git checkout develop
+  -git checkout -b feature/categories-section
+  ICON
+  https://freeicons.io/
+  git status
+  git add .
+
